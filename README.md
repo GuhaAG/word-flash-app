@@ -8,4 +8,4 @@ Run for development
 - `npm install`
 - `npm run web`
 
-Use expo app on android to scan the QR on the screen *OR* point a browser to `http://192.168.1.9:19006/`
+Use expo app on android to scan the QR on the screen *OR* point a browser to `http://local-network-ip:19006/`
