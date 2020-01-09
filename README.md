@@ -1,3 +1,7 @@
+## *** No longer under-development, replaced by `flash-drive` flutter project also on this account ***
+
+
+-----------------------------------------------------
 # word-flash app
 
 React Native app (IOS and Android) for a very simple flashcard app for word pairs to learn a language
@@ -10,4 +14,3 @@ Run for development
 
 Use expo app on android to scan the QR on the screen *OR* point a browser to `http://local-network-ip:19006/`
 
-*** No longer under-development, replaced by `flash-drive` flutter project also on this accoutn ***
