@@ -9,3 +9,5 @@ Run for development
 - `npm run web`
 
 Use expo app on android to scan the QR on the screen *OR* point a browser to `http://local-network-ip:19006/`
+
+*** No longer under-development, replaced by `flash-drive` flutter project also on this accoutn ***
